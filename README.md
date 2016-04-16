@@ -1,3 +1,16 @@
+This is an elaboration on the instructions at
+
+https://github.com/datacarpentry/python-ecology-lesson/blob/gh-pages/CONTRIBUTING.md
+
+which states
+
+> 1. Fork the datacarpentry/lesson-name repository on GitHub.
+> 2. The default branch in our lessons is gh-pages. Create a new branch for your changes. Give your branch a meaningful name, such as fixing-typos-in-shell-lesson or adding-tutorial-on-visualization.
+> 3. Clone this repository and branch to work with it on your computer. git clone the repository with -b 'branch name'
+> 4. Make your changes, commit them, and push them to your repository on GitHub.
+
+Alas, I inferred something into those -- namely merging back into gh-pages -- when I read them.  This is my clumsy attempt to illustrate the process verbosely.
+
 # Using branches to organize pull requests
 
 You should, by now, be familiar with simple pull requests.  One potential
