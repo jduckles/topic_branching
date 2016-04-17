@@ -87,11 +87,11 @@ maintainers.
 
 Now it's time to do your civic duty and clean up those typos and grammatical
 infelicities.  Back at your own computer, you should switch back to the
-Master branch.
+gh-pages branch.
 
 ```
-$ git checkout master
-Switched to branch 'master'
+$ git checkout gh-pages
+Switched to branch 'gh-pages'
 ```
 
 Now we can create a new branch for our clean-up exercise and look at our
@@ -102,7 +102,7 @@ $ git checkout -b simple_corrections
 Switched to a new branch 'simple_corrections'
 $ git branch
   challenge_question
-  master
+  gh-pages
 * simple_corrections
 ```
 
@@ -127,7 +127,7 @@ separate from the pull request you issued for the Challenge question, and it
 will have a different subject, which will make it easier for the maintainers
 of the lesson to evaluate and respond to them separately.
 
-If you find that spot additional typographical or grammatical errors, it would
+If you find additional typographical or grammatical errors, it would
 be appropriate to return to the 'simple_corrections' branch, make those changes
 there, and commit that branch again.  That way, all the changes that fall into
 the category of 'Typographical and grammatical changes' are in the same place.
