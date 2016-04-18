@@ -49,7 +49,7 @@ cloned it to your own computer.  Before you set to work on your proposed
 challenge question, you make a new branch for it.
 
 ```
-$ git checkout -b challenge_question
+$ git checkout -b challenge_question master
 Switched to a new branch 'challenge_question'
 ```
 
